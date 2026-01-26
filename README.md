@@ -17,7 +17,7 @@ O site inclui:
 * **HTML5:** Estruturação semântica do conteúdo.
 * **CSS3:** Estilização, layout e design responsivo (adaptável para celulares).
 * **JavaScript:** Interatividade e manipulação do DOM.
-* **Bootstrap** (se você usou): Framework para layout ágil.
+* **Bootstrap** Framework para layout ágil.
 
 ## 📚 O que aprendi
 Durante o desenvolvimento deste projeto, pratiquei:
