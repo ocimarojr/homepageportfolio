@@ -1,7 +1,7 @@
 # 🚀 Meu Portfólio - CS50 Homepage
 
 ### CS50 Module 8: HTML, CSS, JavaScript
-**Live Site:** [🔗 Clique aqui para ver o projeto online](LINK_DO_SEU_SITE_AQUI)
+**Live Site:** [🔗 Clique aqui para ver o projeto online](https://ocimarojr.github.io/homepageportifolio/)
 
 ---
 
