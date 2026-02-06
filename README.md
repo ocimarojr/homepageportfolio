@@ -77,13 +77,17 @@ Durante lo sviluppo di questo progetto, mi sono concentrato sul consolidamento d
 
 ### 🛠 Tech Stack
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Estrutura** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| **Estilo & Lógica** | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
+**Categoria & Tecnologias**
+
+**Estrutura**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Estilo & Lógica**
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
-
 <div align="center">
   <b>Ocimar Junior</b><br>
   🎓 Estudante de CS50x (Harvard) | 🎓 Licenciado em História (UVA)
