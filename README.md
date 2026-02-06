@@ -4,6 +4,7 @@
 **Live Site:** [🔗 Clique aqui para ver o projeto online](https://ocimarojr.github.io/homepageportfolio/)
 
 ---
+<img width="1919" height="865" alt="HomePage" src="https://github.com/user-attachments/assets/3f016a92-0ee1-4c99-a1bb-97725d795c25" />
 
 ### 📝 Sobre o Projeto
 Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido como exercício final do módulo de desenvolvimento web do curso **CS50: Introduction to Computer Science** de Harvard.
